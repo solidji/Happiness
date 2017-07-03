@@ -14,6 +14,7 @@
 		DBDBEC3A1F0627B300EBD9AE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DBDBEC381F0627B300EBD9AE /* LaunchScreen.storyboard */; };
 		DBDBEC451F0627B400EBD9AE /* HappnissTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBDBEC441F0627B400EBD9AE /* HappnissTests.swift */; };
 		DBDBEC501F0627B400EBD9AE /* HappnissUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBDBEC4F1F0627B400EBD9AE /* HappnissUITests.swift */; };
+		DBDBEC5E1F062CD700EBD9AE /* FaceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBDBEC5D1F062CD700EBD9AE /* FaceView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		DBDBEC4B1F0627B400EBD9AE /* HappnissUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HappnissUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBDBEC4F1F0627B400EBD9AE /* HappnissUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HappnissUITests.swift; sourceTree = "<group>"; };
 		DBDBEC511F0627B400EBD9AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DBDBEC5D1F062CD700EBD9AE /* FaceView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FaceView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				DBDBEC2F1F0627B300EBD9AE /* AppDelegate.swift */,
 				DBDBEC311F0627B300EBD9AE /* ViewController.swift */,
 				DBDBEC331F0627B300EBD9AE /* Main.storyboard */,
+				DBDBEC5D1F062CD700EBD9AE /* FaceView.swift */,
 				DBDBEC361F0627B300EBD9AE /* Assets.xcassets */,
 				DBDBEC381F0627B300EBD9AE /* LaunchScreen.storyboard */,
 				DBDBEC3B1F0627B300EBD9AE /* Info.plist */,
@@ -264,6 +267,7 @@
 			files = (
 				DBDBEC321F0627B300EBD9AE /* ViewController.swift in Sources */,
 				DBDBEC301F0627B300EBD9AE /* AppDelegate.swift in Sources */,
+				DBDBEC5E1F062CD700EBD9AE /* FaceView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
